@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is _William Sandres.
 #### ✨aiming for Full Stack✨
-![✨aiming for Full Stack✨](https://im7.ezgif.com/tmp/ezgif-7-128b815a040f.gif)
+![✨aiming for Full Stack✨](https://i.imgur.com/YvNKyh7.gif)
 
 I'm a Jr. front-end developer Self-taught 👨‍💻passioned by web technologies and learning to contribute to the open source universe. I'm also learning User Interface 🎨.
 
