@@ -4,7 +4,7 @@
 
 I'm a Jr. front-end developer Self-taught 👨‍💻passioned by web technologies and learning to contribute to the open source universe. I'm also learning User Interface 🎨.
 
-Skills:   JS / HTML / CSS / UI
+Skills:   **JS** / **HTML** / **CSS** / **UI**
 
 - 🌱 I’m currently learning `.js` , `.html` , `.css` and more... 
 - 👯 I’m looking to collaborate on ```OpenSource projects```. 
