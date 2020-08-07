@@ -15,7 +15,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakacode&layout=compact&hide=html" alt="hakacode" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hakacode&show_icons=true" alt="hakacode" />
+<img align="middle" src="https://github-readme-stats.vercel.app/api?username=hakacode&show_icons=true" alt="hakacode" />
 
 <p align="center">
 <a href="https://github.com/HakaCode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="30" /></a>
