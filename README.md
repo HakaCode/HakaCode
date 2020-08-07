@@ -24,7 +24,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakacode&layout=compact&hide=html" alt="hakacode" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hakacode&show_icons=true" alt="hakacode" width="380"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hakacode&show_icons=true" alt="hakacode" width="484"/>
 
 <!-- social -->
 
