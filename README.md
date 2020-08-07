@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm William Sandres</h1>
-#### ✨aiming for Full Stack✨
-![✨aiming for Full Stack✨](https://i.imgur.com/YvNKyh7.gif)
+<h3> ✨aiming for Full Stack✨</h3>
+
+<img src="https://i.imgur.com/YvNKyh7.gif" alt="GIF">
 
 <h3 align="center">I'm a Jr. front-end developer Self-taught 👨‍💻passioned by web technologies and learning to contribute to the open source universe. I'm also learning User Interface 🎨.</h3>
-
-Skills:   **JS** / **HTML** / **CSS** / **UI**
 
 - 🌱 I’m currently learning `.js` , `.html` , `.css` and more... 
 - 👯 I’m looking to collaborate on `Open Source projects` 
