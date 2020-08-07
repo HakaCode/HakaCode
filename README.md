@@ -27,4 +27,4 @@
 <a href="https://hakacode.github.io" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="30" width="30" /></a>
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=HakaCode&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=HakaCode&label=PROFILE+VIEWS)[![Repos Badge](https://badges.pufler.dev/repos/HakaCode)](https://badges.pufler.dev)
