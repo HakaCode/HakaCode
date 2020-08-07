@@ -25,4 +25,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hakacode&show_icons=true" alt="hakacode" />
 <!-- social -->
 
-![Profile views](https://komarev.com/ghpvc/?username=HakaCode&label=PROFILE+VIEWS) [![Repos Badge](https://badges.pufler.dev/repos/HakaCode)](https://badges.pufler.dev)
+[![Profile views](https://komarev.com/ghpvc/?username=HakaCode&label=PROFILE+VIEWS) [![Repos Badge](https://badges.pufler.dev/repos/HakaCode)](https://badges.pufler.dev) 
+[![Discord](https://img.shields.io/static/v1?label=&logo=discord&message=!Haka.Code%238977&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/channels/@me/650426162291408896)
