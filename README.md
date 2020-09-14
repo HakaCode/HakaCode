@@ -20,7 +20,25 @@
 </p>
 
 ## Skills:
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakacode&layout=compact&hide=html" alt="hakacode" />
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></p>
+<br />
+<br />
+
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#186](https://github.com//madlabsinc/mevn-cli/pull/186) in [madlabsinc/mevn-cli](https://github.com//madlabsinc/mevn-cli)
+2. 🗣 Commented on [#10](https://github.com//hoppscotch/hopp-doc-gen/issues/10) in [hoppscotch/hopp-doc-gen](https://github.com//hoppscotch/hopp-doc-gen)
+3. 💪 Opened PR [#1791](https://github.com//webpack/webpack-cli/pull/1791) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
+4. 💪 Opened PR [#1790](https://github.com//webpack/webpack-cli/pull/1790) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
+5. 🎉 Merged PR [#42](https://github.com//mad-hacks/madhacks-webapp/pull/42) in [mad-hacks/madhacks-webapp](https://github.com//mad-hacks/madhacks-webapp)
+<!--END_SECTION:activity-->
+
+---
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakacode&layout=compact&hide=html" alt="hakacode" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hakacode&show_icons=true" alt="hakacode" width="484"/>
 
