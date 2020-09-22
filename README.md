@@ -29,11 +29,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com//HakaCode/HakaCode/pull/7) in [HakaCode/HakaCode](https://github.com//HakaCode/HakaCode)
-2. 💪 Opened PR [#7](https://github.com//HakaCode/HakaCode/pull/7) in [HakaCode/HakaCode](https://github.com//HakaCode/HakaCode)
-3. 🎉 Merged PR [#6](https://github.com//HakaCode/HakaCode/pull/6) in [HakaCode/HakaCode](https://github.com//HakaCode/HakaCode)
-4. 💪 Opened PR [#6](https://github.com//HakaCode/HakaCode/pull/6) in [HakaCode/HakaCode](https://github.com//HakaCode/HakaCode)
-5. 🎉 Merged PR [#17](https://github.com//HakaCode/Repo-favorites/pull/17) in [HakaCode/Repo-favorites](https://github.com//HakaCode/Repo-favorites)
+1. 🎉 Merged PR [#18](https://github.com//HakaCode/Repo-favorites/pull/18) in [HakaCode/Repo-favorites](https://github.com//HakaCode/Repo-favorites)
+2. 💪 Opened PR [#18](https://github.com//HakaCode/Repo-favorites/pull/18) in [HakaCode/Repo-favorites](https://github.com//HakaCode/Repo-favorites)
+3. 🎉 Merged PR [#7](https://github.com//HakaCode/HakaCode/pull/7) in [HakaCode/HakaCode](https://github.com//HakaCode/HakaCode)
+4. 💪 Opened PR [#7](https://github.com//HakaCode/HakaCode/pull/7) in [HakaCode/HakaCode](https://github.com//HakaCode/HakaCode)
+5. 🎉 Merged PR [#6](https://github.com//HakaCode/HakaCode/pull/6) in [HakaCode/HakaCode](https://github.com//HakaCode/HakaCode)
 <!--END_SECTION:activity-->
 
 ---
