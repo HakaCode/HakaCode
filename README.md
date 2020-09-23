@@ -29,11 +29,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1310](https://github.com//HTTPArchive/almanac.httparchive.org/pull/1310) in [HTTPArchive/almanac.httparchive.org](https://github.com//HTTPArchive/almanac.httparchive.org)
-2. 🎉 Merged PR [#18](https://github.com//HakaCode/Repo-favorites/pull/18) in [HakaCode/Repo-favorites](https://github.com//HakaCode/Repo-favorites)
-3. 💪 Opened PR [#18](https://github.com//HakaCode/Repo-favorites/pull/18) in [HakaCode/Repo-favorites](https://github.com//HakaCode/Repo-favorites)
-4. 🎉 Merged PR [#7](https://github.com//HakaCode/HakaCode/pull/7) in [HakaCode/HakaCode](https://github.com//HakaCode/HakaCode)
-5. 💪 Opened PR [#7](https://github.com//HakaCode/HakaCode/pull/7) in [HakaCode/HakaCode](https://github.com//HakaCode/HakaCode)
+1. 🗣 Commented on [#1310](https://github.com//HTTPArchive/almanac.httparchive.org/issues/1310) in [HTTPArchive/almanac.httparchive.org](https://github.com//HTTPArchive/almanac.httparchive.org)
+2. 💪 Opened PR [#1310](https://github.com//HTTPArchive/almanac.httparchive.org/pull/1310) in [HTTPArchive/almanac.httparchive.org](https://github.com//HTTPArchive/almanac.httparchive.org)
+3. 🎉 Merged PR [#18](https://github.com//HakaCode/Repo-favorites/pull/18) in [HakaCode/Repo-favorites](https://github.com//HakaCode/Repo-favorites)
+4. 💪 Opened PR [#18](https://github.com//HakaCode/Repo-favorites/pull/18) in [HakaCode/Repo-favorites](https://github.com//HakaCode/Repo-favorites)
+5. 🎉 Merged PR [#7](https://github.com//HakaCode/HakaCode/pull/7) in [HakaCode/HakaCode](https://github.com//HakaCode/HakaCode)
 <!--END_SECTION:activity-->
 
 ---
