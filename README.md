@@ -29,11 +29,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com//javascript-tutorial/pt.javascript.info/issues/1) in [javascript-tutorial/pt.javascript.info](https://github.com//javascript-tutorial/pt.javascript.info)
-2. 🎉 Merged PR [#2](https://github.com//HakaCode/almanac.httparchive.org/pull/2) in [HakaCode/almanac.httparchive.org](https://github.com//HakaCode/almanac.httparchive.org)
-3. 💪 Opened PR [#1312](https://github.com//HTTPArchive/almanac.httparchive.org/pull/1312) in [HTTPArchive/almanac.httparchive.org](https://github.com//HTTPArchive/almanac.httparchive.org)
-4. 💪 Opened PR [#2](https://github.com//HakaCode/almanac.httparchive.org/pull/2) in [HakaCode/almanac.httparchive.org](https://github.com//HakaCode/almanac.httparchive.org)
-5. 🗣 Commented on [#1310](https://github.com//HTTPArchive/almanac.httparchive.org/issues/1310) in [HTTPArchive/almanac.httparchive.org](https://github.com//HTTPArchive/almanac.httparchive.org)
+1. 🗣 Commented on [#1](https://github.com/javascript-tutorial/pt.javascript.info/issues/1) in [javascript-tutorial/pt.javascript.info](https://github.com/javascript-tutorial/pt.javascript.info)
+2. 🎉 Merged PR [#2](https://github.com/HakaCode/almanac.httparchive.org/pull/2) in [HakaCode/almanac.httparchive.org](https://github.com/HakaCode/almanac.httparchive.org)
+3. 💪 Opened PR [#1312](https://github.com/HTTPArchive/almanac.httparchive.org/pull/1312) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
+4. 💪 Opened PR [#2](https://github.com/HakaCode/almanac.httparchive.org/pull/2) in [HakaCode/almanac.httparchive.org](https://github.com/HakaCode/almanac.httparchive.org)
+5. 🗣 Commented on [#1310](https://github.com/HTTPArchive/almanac.httparchive.org/issues/1310) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
 <!--END_SECTION:activity-->
 
 ---
