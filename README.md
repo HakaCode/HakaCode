@@ -29,11 +29,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/jayehernandez/letra-extension/issues/1) in [jayehernandez/letra-extension](https://github.com/jayehernandez/letra-extension)
-2. 🗣 Commented on [#1](https://github.com/javascript-tutorial/pt.javascript.info/issues/1) in [javascript-tutorial/pt.javascript.info](https://github.com/javascript-tutorial/pt.javascript.info)
-3. 🎉 Merged PR [#2](https://github.com/HakaCode/almanac.httparchive.org/pull/2) in [HakaCode/almanac.httparchive.org](https://github.com/HakaCode/almanac.httparchive.org)
-4. 💪 Opened PR [#1312](https://github.com/HTTPArchive/almanac.httparchive.org/pull/1312) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
-5. 💪 Opened PR [#2](https://github.com/HakaCode/almanac.httparchive.org/pull/2) in [HakaCode/almanac.httparchive.org](https://github.com/HakaCode/almanac.httparchive.org)
+1. 💪 Opened PR [#1319](https://github.com/HTTPArchive/almanac.httparchive.org/pull/1319) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
+2. 🗣 Commented on [#1](https://github.com/jayehernandez/letra-extension/issues/1) in [jayehernandez/letra-extension](https://github.com/jayehernandez/letra-extension)
+3. 🗣 Commented on [#1](https://github.com/javascript-tutorial/pt.javascript.info/issues/1) in [javascript-tutorial/pt.javascript.info](https://github.com/javascript-tutorial/pt.javascript.info)
+4. 🎉 Merged PR [#2](https://github.com/HakaCode/almanac.httparchive.org/pull/2) in [HakaCode/almanac.httparchive.org](https://github.com/HakaCode/almanac.httparchive.org)
+5. 💪 Opened PR [#1312](https://github.com/HTTPArchive/almanac.httparchive.org/pull/1312) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
 <!--END_SECTION:activity-->
 
 ---
