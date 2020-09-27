@@ -30,10 +30,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#505](https://github.com/HTTPArchive/almanac.httparchive.org/issues/505) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
-2. 🗣 Commented on [#1319](https://github.com/HTTPArchive/almanac.httparchive.org/issues/1319) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
-3. 💪 Opened PR [#1319](https://github.com/HTTPArchive/almanac.httparchive.org/pull/1319) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
-4. 🗣 Commented on [#1](https://github.com/jayehernandez/letra-extension/issues/1) in [jayehernandez/letra-extension](https://github.com/jayehernandez/letra-extension)
-5. 🗣 Commented on [#1](https://github.com/javascript-tutorial/pt.javascript.info/issues/1) in [javascript-tutorial/pt.javascript.info](https://github.com/javascript-tutorial/pt.javascript.info)
+2. 🗣 Commented on [#505](https://github.com/HTTPArchive/almanac.httparchive.org/issues/505) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
+3. 🗣 Commented on [#1319](https://github.com/HTTPArchive/almanac.httparchive.org/issues/1319) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
+4. 💪 Opened PR [#1319](https://github.com/HTTPArchive/almanac.httparchive.org/pull/1319) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
+5. 🗣 Commented on [#1](https://github.com/jayehernandez/letra-extension/issues/1) in [jayehernandez/letra-extension](https://github.com/jayehernandez/letra-extension)
 <!--END_SECTION:activity-->
 
 ---
