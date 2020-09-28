@@ -29,11 +29,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/HakaCode/hakaplay-theme/pull/1) in [HakaCode/hakaplay-theme](https://github.com/HakaCode/hakaplay-theme)
-2. ❗️ Opened issue [#384](https://github.com/yourfirstpr/yourfirstpr.github.io/issues/384) in [yourfirstpr/yourfirstpr.github.io](https://github.com/yourfirstpr/yourfirstpr.github.io)
-3. 🗣 Commented on [#505](https://github.com/HTTPArchive/almanac.httparchive.org/issues/505) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
+1. 🎉 Merged PR [#1](https://github.com/HakaCode/hakaplay-theme/pull/1) in [HakaCode/hakaplay-theme](https://github.com/HakaCode/hakaplay-theme)
+2. 💪 Opened PR [#1](https://github.com/HakaCode/hakaplay-theme/pull/1) in [HakaCode/hakaplay-theme](https://github.com/HakaCode/hakaplay-theme)
+3. ❗️ Opened issue [#384](https://github.com/yourfirstpr/yourfirstpr.github.io/issues/384) in [yourfirstpr/yourfirstpr.github.io](https://github.com/yourfirstpr/yourfirstpr.github.io)
 4. 🗣 Commented on [#505](https://github.com/HTTPArchive/almanac.httparchive.org/issues/505) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
-5. 🗣 Commented on [#1319](https://github.com/HTTPArchive/almanac.httparchive.org/issues/1319) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
+5. 🗣 Commented on [#505](https://github.com/HTTPArchive/almanac.httparchive.org/issues/505) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
 <!--END_SECTION:activity-->
 
 ---
