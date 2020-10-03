@@ -29,11 +29,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/HakaCode/hakaplay/pull/6) in [HakaCode/hakaplay](https://github.com/HakaCode/hakaplay)
-2. 💪 Opened PR [#6](https://github.com/HakaCode/hakaplay/pull/6) in [HakaCode/hakaplay](https://github.com/HakaCode/hakaplay)
-3. 🗣 Commented on [#505](https://github.com/HTTPArchive/almanac.httparchive.org/issues/505) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
-4. 🗣 Commented on [#505](https://github.com/HTTPArchive/almanac.httparchive.org/issues/505) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
-5. 🗣 Commented on [#1336](https://github.com/HTTPArchive/almanac.httparchive.org/issues/1336) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
+1. 🎉 Merged PR [#7](https://github.com/HakaCode/hakaplay/pull/7) in [HakaCode/hakaplay](https://github.com/HakaCode/hakaplay)
+2. 💪 Opened PR [#7](https://github.com/HakaCode/hakaplay/pull/7) in [HakaCode/hakaplay](https://github.com/HakaCode/hakaplay)
+3. 🎉 Merged PR [#6](https://github.com/HakaCode/hakaplay/pull/6) in [HakaCode/hakaplay](https://github.com/HakaCode/hakaplay)
+4. 💪 Opened PR [#6](https://github.com/HakaCode/hakaplay/pull/6) in [HakaCode/hakaplay](https://github.com/HakaCode/hakaplay)
+5. 🗣 Commented on [#505](https://github.com/HTTPArchive/almanac.httparchive.org/issues/505) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
 <!--END_SECTION:activity-->
 
 ---
