@@ -9,18 +9,27 @@
 - 👯 I’m looking to collaborate on `Open Source projects` 
 - 📫 How to reach me: Below is some information.<br> 
 - 😄 Pronouns: *He / Him* 
-
+<br>
+<br>
+<br>
 <p align="center">
-<a href="https://github.com/HakaCode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="30" /></a>
-<a href="https://dev.to/hakacode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hakacode" height="30" width="30" /></a>
+ <a href="https://github.com/HakaCode" target="blank"><img alt="Gmail" href="https://github.com/HakaCode" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/HakaCode" target="brank"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+ <a href="https://linkedin.com/in/hakacode" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="https://discord.com/channels/@me/650426162291408896" target="blank"><img alt="Discord" src="https://img.shields.io/badge/!HakaCode%E2%B5%8C8977-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+ <a href="https://fb.com/will.constantinov" target="blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/will.constantinov" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+ <a href="https://open.spotify.com/user/31wlybassqrglmdygnbhna2vyk7u?si=6366a5a729cc4a77" target="blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
+ 
+<!--<a href="https://dev.to/hakacode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hakacode" height="30" width="30" /></a>-->
 <!--<a href="https://twitter.com/hakacode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hakacode" height="30" width="30" /></a>-->
-<a href="https://linkedin.com/in/hakacode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hakacode" height="30" width="30" /></a>
-<!--<a href="https://fb.com/will.constantinov" target="blank"><img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg"  alt="will.constantinov" /></a>-->
-<a href="https://instagram.com/will.constantinov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="will.constantinov" height="30" width="30" /></a>
+
+
 </p>
 
 ## Languages and Tools:
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> <img fill="#007ACC" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg" /> </p>
+<p align="center"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/><br> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
 <br />
 <br />
 
