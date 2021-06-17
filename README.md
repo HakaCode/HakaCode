@@ -4,7 +4,9 @@
 <!-- <img align="center" src="https://i.imgur.com/YvNKyh7.gif" alt="GIF"> -->
 ![Snake animation](https://github.com/HakaCode/HakaCode/blob/output/github-contribution-grid-snake.svg)
 
-<h3 align="center">I'm a Jr. front-end developer Self-taught 👨‍💻passioned by web technologies and learning to contribute to the open source universe. I'm also learning User Interface 🎨.</h3>
+<!-- <h3 align="center"> -->
+ >I'm a Jr. front-end developer Self-taught 👨‍💻passioned by web technologies and learning to contribute to the open source universe.
+ >I'm also learning User Interface 🎨.<!--</h3> -->
 
 - 🌱 I’m currently learning `.js` , `.html` , `.css` and more... 
 - 👯 I’m looking to collaborate on `Open Source projects` 
