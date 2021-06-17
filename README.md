@@ -8,6 +8,8 @@
  >I'm a Jr. front-end developer Self-taught 👨‍💻passioned by web technologies and learning to contribute to the open source universe.
  >I'm also learning User Interface 🎨.<!--</h3> -->
 
+<br>
+
 - 🌱 I’m currently learning `.js` , `.html` , `.css` and more... 
 - 👯 I’m looking to collaborate on `Open Source projects` 
 - 📫 How to reach me: Below is some information.<br> 
