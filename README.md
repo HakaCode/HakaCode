@@ -43,9 +43,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/HakaCode/nextjs-blog/pull/14) in [HakaCode/nextjs-blog](https://github.com/HakaCode/nextjs-blog)
-2. 🎉 Merged PR [#11](https://github.com/HakaCode/nextjs-blog/pull/11) in [HakaCode/nextjs-blog](https://github.com/HakaCode/nextjs-blog)
-3. 🗣 Commented on [#2233](https://github.com/HTTPArchive/almanac.httparchive.org/issues/2233) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
+1. ❗️ Closed issue [#1](https://github.com/HakaCode/github-slideshow/issues/1) in [HakaCode/github-slideshow](https://github.com/HakaCode/github-slideshow)
+2. 🎉 Merged PR [#14](https://github.com/HakaCode/nextjs-blog/pull/14) in [HakaCode/nextjs-blog](https://github.com/HakaCode/nextjs-blog)
+3. 🎉 Merged PR [#11](https://github.com/HakaCode/nextjs-blog/pull/11) in [HakaCode/nextjs-blog](https://github.com/HakaCode/nextjs-blog)
 4. 💪 Opened PR [#2233](https://github.com/HTTPArchive/almanac.httparchive.org/pull/2233) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
 5. 🎉 Merged PR [#10](https://github.com/HakaCode/HakaCode/pull/10) in [HakaCode/HakaCode](https://github.com/HakaCode/HakaCode)
 <!--END_SECTION:activity-->
