@@ -43,11 +43,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/HakaCode/reviewing-a-pull-request/pull/4) in [HakaCode/reviewing-a-pull-request](https://github.com/HakaCode/reviewing-a-pull-request)
-2. 🗣 Commented on [#1](https://github.com/DIO-David1327/DIO-TOOLS-David1327/issues/1) in [DIO-David1327/DIO-TOOLS-David1327](https://github.com/DIO-David1327/DIO-TOOLS-David1327)
-3. ❗️ Opened issue [#1](https://github.com/DIO-David1327/DIO-TOOLS-David1327/issues/1) in [DIO-David1327/DIO-TOOLS-David1327](https://github.com/DIO-David1327/DIO-TOOLS-David1327)
-4. 🎉 Merged PR [#3](https://github.com/HakaCode/github-slideshow/pull/3) in [HakaCode/github-slideshow](https://github.com/HakaCode/github-slideshow)
-5. 💪 Opened PR [#3](https://github.com/HakaCode/github-slideshow/pull/3) in [HakaCode/github-slideshow](https://github.com/HakaCode/github-slideshow)
+1. 🎉 Merged PR [#4](https://github.com/HakaCode/reviewing-a-pull-request/pull/4) in [HakaCode/reviewing-a-pull-request](https://github.com/HakaCode/reviewing-a-pull-request)
+2. 💪 Opened PR [#4](https://github.com/HakaCode/reviewing-a-pull-request/pull/4) in [HakaCode/reviewing-a-pull-request](https://github.com/HakaCode/reviewing-a-pull-request)
+3. 🗣 Commented on [#1](https://github.com/DIO-David1327/DIO-TOOLS-David1327/issues/1) in [DIO-David1327/DIO-TOOLS-David1327](https://github.com/DIO-David1327/DIO-TOOLS-David1327)
+4. ❗️ Opened issue [#1](https://github.com/DIO-David1327/DIO-TOOLS-David1327/issues/1) in [DIO-David1327/DIO-TOOLS-David1327](https://github.com/DIO-David1327/DIO-TOOLS-David1327)
+5. 🎉 Merged PR [#3](https://github.com/HakaCode/github-slideshow/pull/3) in [HakaCode/github-slideshow](https://github.com/HakaCode/github-slideshow)
 <!--END_SECTION:activity-->
 
 ---
