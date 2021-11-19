@@ -43,11 +43,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#49](https://github.com/craftygg/translations/issues/49) in [craftygg/translations](https://github.com/craftygg/translations)
-2. ❗️ Opened issue [#29](https://github.com/GrepoDataTools/grepodata-frontend/issues/29) in [GrepoDataTools/grepodata-frontend](https://github.com/GrepoDataTools/grepodata-frontend)
-3. 🎉 Merged PR [#4](https://github.com/HakaCode/reviewing-a-pull-request/pull/4) in [HakaCode/reviewing-a-pull-request](https://github.com/HakaCode/reviewing-a-pull-request)
-4. 💪 Opened PR [#4](https://github.com/HakaCode/reviewing-a-pull-request/pull/4) in [HakaCode/reviewing-a-pull-request](https://github.com/HakaCode/reviewing-a-pull-request)
-5. 🗣 Commented on [#1](https://github.com/DIO-David1327/DIO-TOOLS-David1327/issues/1) in [DIO-David1327/DIO-TOOLS-David1327](https://github.com/DIO-David1327/DIO-TOOLS-David1327)
+1. 🗣 Commented on [#49](https://github.com/craftygg/translations/issues/49) in [craftygg/translations](https://github.com/craftygg/translations)
+2. ❗️ Opened issue [#49](https://github.com/craftygg/translations/issues/49) in [craftygg/translations](https://github.com/craftygg/translations)
+3. ❗️ Opened issue [#29](https://github.com/GrepoDataTools/grepodata-frontend/issues/29) in [GrepoDataTools/grepodata-frontend](https://github.com/GrepoDataTools/grepodata-frontend)
+4. 🎉 Merged PR [#4](https://github.com/HakaCode/reviewing-a-pull-request/pull/4) in [HakaCode/reviewing-a-pull-request](https://github.com/HakaCode/reviewing-a-pull-request)
+5. 💪 Opened PR [#4](https://github.com/HakaCode/reviewing-a-pull-request/pull/4) in [HakaCode/reviewing-a-pull-request](https://github.com/HakaCode/reviewing-a-pull-request)
 <!--END_SECTION:activity-->
 
 ---
