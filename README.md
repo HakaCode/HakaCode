@@ -22,7 +22,7 @@
   <a href="https://github.com/HakaCode" target="brank"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
  <a href="https://linkedin.com/in/hakacode" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="https://discord.com/channels/@me/650426162291408896" target="blank"><img alt="Discord" src="https://img.shields.io/badge/!HakaCode%E2%B5%8C8977-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
- <a href="https://fb.com/will.constantinov" target="blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+ <a href="https://fb.com/#" target="blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
   <a href="https://instagram.com/will.constantinov" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
  <a href="https://open.spotify.com/user/31wlybassqrglmdygnbhna2vyk7u?si=6366a5a729cc4a77" target="blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
  
