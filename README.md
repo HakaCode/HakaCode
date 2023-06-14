@@ -43,7 +43,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/gustavoguanabara/git-github/issues/3) in [gustavoguanabara/git-github](https://github.com/gustavoguanabara/git-github)
+1. ❌ Closed PR [#1](https://github.com/HakaCode/almanac.httparchive.org/pull/1) in [HakaCode/almanac.httparchive.org](https://github.com/HakaCode/almanac.httparchive.org)
 2. 🎉 Merged PR [#16](https://github.com/HakaCode/nextjs-blog/pull/16) in [HakaCode/nextjs-blog](https://github.com/HakaCode/nextjs-blog)
 3. 🎉 Merged PR [#15](https://github.com/HakaCode/nextjs-blog/pull/15) in [HakaCode/nextjs-blog](https://github.com/HakaCode/nextjs-blog)
 4. 🗣 Commented on [#49](https://github.com/craftygg/translations/issues/49) in [craftygg/translations](https://github.com/craftygg/translations)
