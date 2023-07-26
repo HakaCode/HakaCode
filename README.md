@@ -43,11 +43,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3476](https://github.com/HTTPArchive/almanac.httparchive.org/pull/3476) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
-2. 🗣 Commented on [#3475](https://github.com/HTTPArchive/almanac.httparchive.org/pull/3475#issuecomment-1648838568) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
-3. 💪 Opened PR [#3475](https://github.com/HTTPArchive/almanac.httparchive.org/pull/3475) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
-4. ❌ Closed PR [#1](https://github.com/HakaCode/almanac.httparchive.org/pull/1) in [HakaCode/almanac.httparchive.org](https://github.com/HakaCode/almanac.httparchive.org)
-5. ❗️ Opened issue [#49](https://github.com/craftygg/translations/issues/49) in [craftygg/translations](https://github.com/craftygg/translations)
+1. 🗣 Commented on [#505](https://github.com/HTTPArchive/almanac.httparchive.org/issues/505#issuecomment-1650804766) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
+2. 💪 Opened PR [#3476](https://github.com/HTTPArchive/almanac.httparchive.org/pull/3476) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
+3. 🗣 Commented on [#3475](https://github.com/HTTPArchive/almanac.httparchive.org/pull/3475#issuecomment-1648838568) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
+4. 💪 Opened PR [#3475](https://github.com/HTTPArchive/almanac.httparchive.org/pull/3475) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
+5. ❌ Closed PR [#1](https://github.com/HakaCode/almanac.httparchive.org/pull/1) in [HakaCode/almanac.httparchive.org](https://github.com/HakaCode/almanac.httparchive.org)
 <!--END_SECTION:activity-->
 
 ---
