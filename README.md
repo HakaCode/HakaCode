@@ -43,11 +43,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/HakaCode/xbox-game-lp/pull/1) in [HakaCode/xbox-game-lp](https://github.com/HakaCode/xbox-game-lp)
-2. 💪 Opened PR [#1](https://github.com/HakaCode/xbox-game-lp/pull/1) in [HakaCode/xbox-game-lp](https://github.com/HakaCode/xbox-game-lp)
-3. 💪 Opened PR [#3484](https://github.com/HTTPArchive/almanac.httparchive.org/pull/3484) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
-4. 💪 Opened PR [#3482](https://github.com/HTTPArchive/almanac.httparchive.org/pull/3482) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
-5. 💪 Opened PR [#3481](https://github.com/HTTPArchive/almanac.httparchive.org/pull/3481) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
+1. 💪 Opened PR [#3484](https://github.com/HTTPArchive/almanac.httparchive.org/pull/3484) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
+2. 💪 Opened PR [#3482](https://github.com/HTTPArchive/almanac.httparchive.org/pull/3482) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
+3. 💪 Opened PR [#3481](https://github.com/HTTPArchive/almanac.httparchive.org/pull/3481) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
+4. 🗣 Commented on [#505](https://github.com/HTTPArchive/almanac.httparchive.org/issues/505#issuecomment-1654816497) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
+5. 💪 Opened PR [#3480](https://github.com/HTTPArchive/almanac.httparchive.org/pull/3480) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
 <!--END_SECTION:activity-->
 
 ---
