@@ -43,11 +43,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/HakaCode/landing-page-for-bot-discord/pull/14) in [HakaCode/landing-page-for-bot-discord](https://github.com/HakaCode/landing-page-for-bot-discord)
-2. 🎉 Merged PR [#13](https://github.com/HakaCode/landing-page-for-bot-discord/pull/13) in [HakaCode/landing-page-for-bot-discord](https://github.com/HakaCode/landing-page-for-bot-discord)
-3. 💪 Opened PR [#13](https://github.com/HakaCode/landing-page-for-bot-discord/pull/13) in [HakaCode/landing-page-for-bot-discord](https://github.com/HakaCode/landing-page-for-bot-discord)
-4. 💪 Opened PR [#3484](https://github.com/HTTPArchive/almanac.httparchive.org/pull/3484) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
-5. 💪 Opened PR [#3482](https://github.com/HTTPArchive/almanac.httparchive.org/pull/3482) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
+1. 🎉 Merged PR [#14](https://github.com/HakaCode/landing-page-for-bot-discord/pull/14) in [HakaCode/landing-page-for-bot-discord](https://github.com/HakaCode/landing-page-for-bot-discord)
+2. 💪 Opened PR [#14](https://github.com/HakaCode/landing-page-for-bot-discord/pull/14) in [HakaCode/landing-page-for-bot-discord](https://github.com/HakaCode/landing-page-for-bot-discord)
+3. 🎉 Merged PR [#13](https://github.com/HakaCode/landing-page-for-bot-discord/pull/13) in [HakaCode/landing-page-for-bot-discord](https://github.com/HakaCode/landing-page-for-bot-discord)
+4. 💪 Opened PR [#13](https://github.com/HakaCode/landing-page-for-bot-discord/pull/13) in [HakaCode/landing-page-for-bot-discord](https://github.com/HakaCode/landing-page-for-bot-discord)
+5. 💪 Opened PR [#3484](https://github.com/HTTPArchive/almanac.httparchive.org/pull/3484) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
 <!--END_SECTION:activity-->
 
 ---
