@@ -43,11 +43,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/HakaCode/recursos-gratuitos/pull/1) in [HakaCode/recursos-gratuitos](https://github.com/HakaCode/recursos-gratuitos)
-2. 🔒 Closed issue [#7](https://github.com/HakaCode/landing-page-for-bot-discord/issues/7) in [HakaCode/landing-page-for-bot-discord](https://github.com/HakaCode/landing-page-for-bot-discord)
-3. 🎉 Merged PR [#14](https://github.com/HakaCode/landing-page-for-bot-discord/pull/14) in [HakaCode/landing-page-for-bot-discord](https://github.com/HakaCode/landing-page-for-bot-discord)
-4. 💪 Opened PR [#14](https://github.com/HakaCode/landing-page-for-bot-discord/pull/14) in [HakaCode/landing-page-for-bot-discord](https://github.com/HakaCode/landing-page-for-bot-discord)
-5. 🎉 Merged PR [#13](https://github.com/HakaCode/landing-page-for-bot-discord/pull/13) in [HakaCode/landing-page-for-bot-discord](https://github.com/HakaCode/landing-page-for-bot-discord)
+1. 💪 Opened PR [#76](https://github.com/iuricode/recursos-gratuitos/pull/76) in [iuricode/recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos)
+2. ❌ Closed PR [#1](https://github.com/HakaCode/recursos-gratuitos/pull/1) in [HakaCode/recursos-gratuitos](https://github.com/HakaCode/recursos-gratuitos)
+3. 🔒 Closed issue [#7](https://github.com/HakaCode/landing-page-for-bot-discord/issues/7) in [HakaCode/landing-page-for-bot-discord](https://github.com/HakaCode/landing-page-for-bot-discord)
+4. 🎉 Merged PR [#14](https://github.com/HakaCode/landing-page-for-bot-discord/pull/14) in [HakaCode/landing-page-for-bot-discord](https://github.com/HakaCode/landing-page-for-bot-discord)
+5. 💪 Opened PR [#14](https://github.com/HakaCode/landing-page-for-bot-discord/pull/14) in [HakaCode/landing-page-for-bot-discord](https://github.com/HakaCode/landing-page-for-bot-discord)
 <!--END_SECTION:activity-->
 
 ---
