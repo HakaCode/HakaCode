@@ -43,11 +43,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#77](https://github.com/iuricode/recursos-gratuitos/pull/77) in [iuricode/recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos)
-2. 💪 Opened PR [#3501](https://github.com/HTTPArchive/almanac.httparchive.org/pull/3501) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
-3. 💪 Opened PR [#76](https://github.com/iuricode/recursos-gratuitos/pull/76) in [iuricode/recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos)
-4. ❌ Closed PR [#1](https://github.com/HakaCode/recursos-gratuitos/pull/1) in [HakaCode/recursos-gratuitos](https://github.com/HakaCode/recursos-gratuitos)
-5. 🔒 Closed issue [#7](https://github.com/HakaCode/landing-page-for-bot-discord/issues/7) in [HakaCode/landing-page-for-bot-discord](https://github.com/HakaCode/landing-page-for-bot-discord)
+1. 🗣 Commented on [#5](https://github.com/Devographics/locale-pt-BR/issues/5#issuecomment-1703946198) in [Devographics/locale-pt-BR](https://github.com/Devographics/locale-pt-BR)
+2. 💪 Opened PR [#77](https://github.com/iuricode/recursos-gratuitos/pull/77) in [iuricode/recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos)
+3. 💪 Opened PR [#3501](https://github.com/HTTPArchive/almanac.httparchive.org/pull/3501) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
+4. 💪 Opened PR [#76](https://github.com/iuricode/recursos-gratuitos/pull/76) in [iuricode/recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos)
+5. ❌ Closed PR [#1](https://github.com/HakaCode/recursos-gratuitos/pull/1) in [HakaCode/recursos-gratuitos](https://github.com/HakaCode/recursos-gratuitos)
 <!--END_SECTION:activity-->
 
 ---
