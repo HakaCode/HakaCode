@@ -43,11 +43,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/Devographics/locale-pt-BR/issues/5) in [Devographics/locale-pt-BR](https://github.com/Devographics/locale-pt-BR)
-2. 🗣 Commented on [#5](https://github.com/Devographics/locale-pt-BR/issues/5#issuecomment-1705729917) in [Devographics/locale-pt-BR](https://github.com/Devographics/locale-pt-BR)
-3. 🗣 Commented on [#49](https://github.com/Devographics/locale-pt-BR/pull/49#issuecomment-1704348726) in [Devographics/locale-pt-BR](https://github.com/Devographics/locale-pt-BR)
-4. 💪 Opened PR [#121](https://github.com/bestofjs/javascript-risingstars/pull/121) in [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars)
-5. 💪 Opened PR [#65](https://github.com/Devographics/locale-pt-BR/pull/65) in [Devographics/locale-pt-BR](https://github.com/Devographics/locale-pt-BR)
+1. 🗣 Commented on [#3](https://github.com/Devographics/locale-pt-BR/issues/3#issuecomment-1705733647) in [Devographics/locale-pt-BR](https://github.com/Devographics/locale-pt-BR)
+2. 🔒 Closed issue [#5](https://github.com/Devographics/locale-pt-BR/issues/5) in [Devographics/locale-pt-BR](https://github.com/Devographics/locale-pt-BR)
+3. 🗣 Commented on [#5](https://github.com/Devographics/locale-pt-BR/issues/5#issuecomment-1705729917) in [Devographics/locale-pt-BR](https://github.com/Devographics/locale-pt-BR)
+4. 🗣 Commented on [#49](https://github.com/Devographics/locale-pt-BR/pull/49#issuecomment-1704348726) in [Devographics/locale-pt-BR](https://github.com/Devographics/locale-pt-BR)
+5. 💪 Opened PR [#121](https://github.com/bestofjs/javascript-risingstars/pull/121) in [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars)
 <!--END_SECTION:activity-->
 
 ---
