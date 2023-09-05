@@ -43,11 +43,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#2](https://github.com/HakaCode/skills-release-based-workflow/pull/2) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
-2. 🎉 Merged PR [#3](https://github.com/HakaCode/skills-release-based-workflow/pull/3) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
-3. 💪 Opened PR [#3](https://github.com/HakaCode/skills-release-based-workflow/pull/3) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
-4. ❌ Closed PR [#2](https://github.com/HakaCode/skills-release-based-workflow/pull/2) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
-5. 💪 Opened PR [#2](https://github.com/HakaCode/skills-release-based-workflow/pull/2) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
+1. ❌ Closed PR [#2](https://github.com/HakaCode/skills-release-based-workflow/pull/2) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
+2. ❌ Reopened PR [#2](https://github.com/HakaCode/skills-release-based-workflow/pull/2) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
+3. 🎉 Merged PR [#3](https://github.com/HakaCode/skills-release-based-workflow/pull/3) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
+4. 💪 Opened PR [#3](https://github.com/HakaCode/skills-release-based-workflow/pull/3) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
+5. ❌ Closed PR [#2](https://github.com/HakaCode/skills-release-based-workflow/pull/2) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
 <!--END_SECTION:activity-->
 
 ---
