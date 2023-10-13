@@ -43,11 +43,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/HakaCode/skills-release-based-workflow/releases/tag/v1.0.0) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
-2. 🎉 Merged PR [#4](https://github.com/HakaCode/skills-release-based-workflow/pull/4) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
-3. 💪 Opened PR [#4](https://github.com/HakaCode/skills-release-based-workflow/pull/4) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
-4. 🎉 Merged PR [#3](https://github.com/HakaCode/skills-release-based-workflow/pull/3) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
-5. 💪 Opened PR [#3](https://github.com/HakaCode/skills-release-based-workflow/pull/3) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
+1. 🗣 Commented on [#73](https://github.com/Devographics/locale-pt-BR/pull/73#issuecomment-1760643616) in [Devographics/locale-pt-BR](https://github.com/Devographics/locale-pt-BR)
+2. 🚀 Published release [v1.0.0](https://github.com/HakaCode/skills-release-based-workflow/releases/tag/v1.0.0) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
+3. 🎉 Merged PR [#4](https://github.com/HakaCode/skills-release-based-workflow/pull/4) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
+4. 💪 Opened PR [#4](https://github.com/HakaCode/skills-release-based-workflow/pull/4) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
+5. 🎉 Merged PR [#3](https://github.com/HakaCode/skills-release-based-workflow/pull/3) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
 <!--END_SECTION:activity-->
 
 ---
