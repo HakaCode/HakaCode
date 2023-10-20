@@ -43,11 +43,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#73](https://github.com/Devographics/locale-pt-BR/pull/73#issuecomment-1760643616) in [Devographics/locale-pt-BR](https://github.com/Devographics/locale-pt-BR)
-2. 🚀 Published release [v1.0.0](https://github.com/HakaCode/skills-release-based-workflow/releases/tag/v1.0.0) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
-3. 🎉 Merged PR [#4](https://github.com/HakaCode/skills-release-based-workflow/pull/4) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
-4. 💪 Opened PR [#4](https://github.com/HakaCode/skills-release-based-workflow/pull/4) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
-5. 🎉 Merged PR [#3](https://github.com/HakaCode/skills-release-based-workflow/pull/3) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
+1. 🎉 Merged PR [#6](https://github.com/HakaCode/skills-release-based-workflow/pull/6) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
+2. 💪 Opened PR [#6](https://github.com/HakaCode/skills-release-based-workflow/pull/6) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
+3. 🎉 Merged PR [#5](https://github.com/HakaCode/skills-release-based-workflow/pull/5) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
+4. 💪 Opened PR [#5](https://github.com/HakaCode/skills-release-based-workflow/pull/5) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
+5. 🗣 Commented on [#73](https://github.com/Devographics/locale-pt-BR/pull/73#issuecomment-1760643616) in [Devographics/locale-pt-BR](https://github.com/Devographics/locale-pt-BR)
 <!--END_SECTION:activity-->
 
 ---
