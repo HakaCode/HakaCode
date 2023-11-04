@@ -43,11 +43,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1](https://github.com/HakaCode/skills-release-based-workflow/releases/tag/v1.0.1) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
-2. 🎉 Merged PR [#6](https://github.com/HakaCode/skills-release-based-workflow/pull/6) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
-3. 💪 Opened PR [#6](https://github.com/HakaCode/skills-release-based-workflow/pull/6) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
-4. 🎉 Merged PR [#5](https://github.com/HakaCode/skills-release-based-workflow/pull/5) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
-5. 💪 Opened PR [#5](https://github.com/HakaCode/skills-release-based-workflow/pull/5) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
+1. 💪 Opened PR [#1](https://github.com/danilo1opes/DevSchoolProject/pull/1) in [danilo1opes/DevSchoolProject](https://github.com/danilo1opes/DevSchoolProject)
+2. 🚀 Published release [v1.0.1](https://github.com/HakaCode/skills-release-based-workflow/releases/tag/v1.0.1) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
+3. 🎉 Merged PR [#6](https://github.com/HakaCode/skills-release-based-workflow/pull/6) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
+4. 💪 Opened PR [#6](https://github.com/HakaCode/skills-release-based-workflow/pull/6) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
+5. 🎉 Merged PR [#5](https://github.com/HakaCode/skills-release-based-workflow/pull/5) in [HakaCode/skills-release-based-workflow](https://github.com/HakaCode/skills-release-based-workflow)
 <!--END_SECTION:activity-->
 
 ---
