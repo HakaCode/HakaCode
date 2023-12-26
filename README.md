@@ -43,11 +43,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/HakaCode/landing-page-for-bot-discord/pull/16) in [HakaCode/landing-page-for-bot-discord](https://github.com/HakaCode/landing-page-for-bot-discord)
-2. 🗣 Commented on [#15](https://github.com/HakaCode/landing-page-for-bot-discord/pull/15#issuecomment-1869213795) in [HakaCode/landing-page-for-bot-discord](https://github.com/HakaCode/landing-page-for-bot-discord)
-3. 🎉 Merged PR [#15](https://github.com/HakaCode/landing-page-for-bot-discord/pull/15) in [HakaCode/landing-page-for-bot-discord](https://github.com/HakaCode/landing-page-for-bot-discord)
-4. 🎉 Merged PR [#1](https://github.com/HakaCode/ballecoffee/pull/1) in [HakaCode/ballecoffee](https://github.com/HakaCode/ballecoffee)
-5. 💪 Opened PR [#1](https://github.com/HakaCode/ballecoffee/pull/1) in [HakaCode/ballecoffee](https://github.com/HakaCode/ballecoffee)
+1. 🎉 Merged PR [#2](https://github.com/HakaCode/sera-que-buga/pull/2) in [HakaCode/sera-que-buga](https://github.com/HakaCode/sera-que-buga)
+2. 🗣 Commented on [#1](https://github.com/HakaCode/sera-que-buga/pull/1#issuecomment-1869277395) in [HakaCode/sera-que-buga](https://github.com/HakaCode/sera-que-buga)
+3. 🎉 Merged PR [#1](https://github.com/HakaCode/sera-que-buga/pull/1) in [HakaCode/sera-que-buga](https://github.com/HakaCode/sera-que-buga)
+4. 🎉 Merged PR [#16](https://github.com/HakaCode/landing-page-for-bot-discord/pull/16) in [HakaCode/landing-page-for-bot-discord](https://github.com/HakaCode/landing-page-for-bot-discord)
+5. 🗣 Commented on [#15](https://github.com/HakaCode/landing-page-for-bot-discord/pull/15#issuecomment-1869213795) in [HakaCode/landing-page-for-bot-discord](https://github.com/HakaCode/landing-page-for-bot-discord)
 <!--END_SECTION:activity-->
 
 ---
