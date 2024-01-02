@@ -43,11 +43,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#121](https://github.com/bestofjs/javascript-risingstars/pull/121#issuecomment-1869593068) in [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars)
-2. 🎉 Merged PR [#18](https://github.com/HakaCode/landing-page-for-bot-discord/pull/18) in [HakaCode/landing-page-for-bot-discord](https://github.com/HakaCode/landing-page-for-bot-discord)
-3. 🗣 Commented on [#17](https://github.com/HakaCode/landing-page-for-bot-discord/pull/17#issuecomment-1869300985) in [HakaCode/landing-page-for-bot-discord](https://github.com/HakaCode/landing-page-for-bot-discord)
-4. 🎉 Merged PR [#17](https://github.com/HakaCode/landing-page-for-bot-discord/pull/17) in [HakaCode/landing-page-for-bot-discord](https://github.com/HakaCode/landing-page-for-bot-discord)
-5. 🎉 Merged PR [#16](https://github.com/HakaCode/landing-page-for-bot-discord/pull/16) in [HakaCode/landing-page-for-bot-discord](https://github.com/HakaCode/landing-page-for-bot-discord)
+1. 🎉 Merged PR [#2](https://github.com/HakaCode/ballecoffee/pull/2) in [HakaCode/ballecoffee](https://github.com/HakaCode/ballecoffee)
+2. 💪 Opened PR [#2](https://github.com/HakaCode/ballecoffee/pull/2) in [HakaCode/ballecoffee](https://github.com/HakaCode/ballecoffee)
+3. 🗣 Commented on [#121](https://github.com/bestofjs/javascript-risingstars/pull/121#issuecomment-1869593068) in [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars)
+4. 🎉 Merged PR [#18](https://github.com/HakaCode/landing-page-for-bot-discord/pull/18) in [HakaCode/landing-page-for-bot-discord](https://github.com/HakaCode/landing-page-for-bot-discord)
+5. 🗣 Commented on [#17](https://github.com/HakaCode/landing-page-for-bot-discord/pull/17#issuecomment-1869300985) in [HakaCode/landing-page-for-bot-discord](https://github.com/HakaCode/landing-page-for-bot-discord)
 <!--END_SECTION:activity-->
 
 ---
