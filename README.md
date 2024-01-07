@@ -43,11 +43,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#416](https://github.com/javascript-tutorial/pt.javascript.info/issues/416#issuecomment-1880187243) in [javascript-tutorial/pt.javascript.info](https://github.com/javascript-tutorial/pt.javascript.info)
-2. 💪 Opened PR [#82](https://github.com/iuricode/recursos-gratuitos/pull/82) in [iuricode/recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos)
-3. 🎉 Merged PR [#3](https://github.com/HakaCode/ballecoffee/pull/3) in [HakaCode/ballecoffee](https://github.com/HakaCode/ballecoffee)
-4. 🎉 Merged PR [#2](https://github.com/HakaCode/ballecoffee/pull/2) in [HakaCode/ballecoffee](https://github.com/HakaCode/ballecoffee)
-5. 💪 Opened PR [#2](https://github.com/HakaCode/ballecoffee/pull/2) in [HakaCode/ballecoffee](https://github.com/HakaCode/ballecoffee)
+1. 💪 Opened PR [#417](https://github.com/javascript-tutorial/pt.javascript.info/pull/417) in [javascript-tutorial/pt.javascript.info](https://github.com/javascript-tutorial/pt.javascript.info)
+2. 🗣 Commented on [#416](https://github.com/javascript-tutorial/pt.javascript.info/issues/416#issuecomment-1880187243) in [javascript-tutorial/pt.javascript.info](https://github.com/javascript-tutorial/pt.javascript.info)
+3. 💪 Opened PR [#82](https://github.com/iuricode/recursos-gratuitos/pull/82) in [iuricode/recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos)
+4. 🎉 Merged PR [#3](https://github.com/HakaCode/ballecoffee/pull/3) in [HakaCode/ballecoffee](https://github.com/HakaCode/ballecoffee)
+5. 🎉 Merged PR [#2](https://github.com/HakaCode/ballecoffee/pull/2) in [HakaCode/ballecoffee](https://github.com/HakaCode/ballecoffee)
 <!--END_SECTION:activity-->
 
 ---
