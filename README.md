@@ -43,11 +43,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/danilo1opes/DevSchoolProject/pull/3) in [danilo1opes/DevSchoolProject](https://github.com/danilo1opes/DevSchoolProject)
-2. 🎉 Merged PR [#4](https://github.com/HakaCode/ballecoffee/pull/4) in [HakaCode/ballecoffee](https://github.com/HakaCode/ballecoffee)
-3. 💪 Opened PR [#4](https://github.com/HakaCode/ballecoffee/pull/4) in [HakaCode/ballecoffee](https://github.com/HakaCode/ballecoffee)
-4. 🗣 Commented on [#416](https://github.com/javascript-tutorial/pt.javascript.info/issues/416#issuecomment-1880207336) in [javascript-tutorial/pt.javascript.info](https://github.com/javascript-tutorial/pt.javascript.info)
-5. 💪 Opened PR [#417](https://github.com/javascript-tutorial/pt.javascript.info/pull/417) in [javascript-tutorial/pt.javascript.info](https://github.com/javascript-tutorial/pt.javascript.info)
+1. 💪 Opened PR [#3559](https://github.com/HTTPArchive/almanac.httparchive.org/pull/3559) in [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org)
+2. 💪 Opened PR [#3](https://github.com/danilo1opes/DevSchoolProject/pull/3) in [danilo1opes/DevSchoolProject](https://github.com/danilo1opes/DevSchoolProject)
+3. 🎉 Merged PR [#4](https://github.com/HakaCode/ballecoffee/pull/4) in [HakaCode/ballecoffee](https://github.com/HakaCode/ballecoffee)
+4. 💪 Opened PR [#4](https://github.com/HakaCode/ballecoffee/pull/4) in [HakaCode/ballecoffee](https://github.com/HakaCode/ballecoffee)
+5. 🗣 Commented on [#416](https://github.com/javascript-tutorial/pt.javascript.info/issues/416#issuecomment-1880207336) in [javascript-tutorial/pt.javascript.info](https://github.com/javascript-tutorial/pt.javascript.info)
 <!--END_SECTION:activity-->
 
 ---
