@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm William Sandres</h1>
-<h4 align="center"> ✨aiming for Full Stack✨</h4>
+<h4 align="center"> ✨Discord Activity✨</h4>
 <table align="center">
   <tr>
     <td>
