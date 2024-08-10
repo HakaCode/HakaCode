@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm William Sandres</h1>
 <h4 align="center"> ✨aiming for Full Stack✨</h4>
+<table align="center">
+  <tr>
+    <td>
+		<a href="https://discord.com/users/372919170951806977" target="_blank" rel="nofollow">
+			<img src="https://lanyard-profile-readme.vercel.app/api/372919170951806977?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
+		</a>
+    </td>
+  </tr>
+</table>
 
 <!-- <img align="center" src="https://i.imgur.com/YvNKyh7.gif" alt="GIF"> -->
 ![Snake animation](https://github.com/HakaCode/HakaCode/blob/output/github-contribution-grid-snake.svg)
@@ -15,6 +24,7 @@
 - 📫 How to reach me: Below is some information.<br> 
 - 😄 Pronouns: *He / Him* 
 <br>
+<!--[![Discord Presence](https://lanyard.cnrad.dev/api/372919170951806977)](https://discord.com/users/372919170951806977)-->
 <br>
 <br>
 <p align="center">
